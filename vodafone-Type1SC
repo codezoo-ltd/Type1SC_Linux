@@ -30,7 +30,6 @@ crtscts
 connect "/usr/sbin/chat -v -f /etc/ppp/peers/vodafone-Type1SC-chat"
 noauth
 defaultroute
-usepeerdns
 local
 debug
 updetach
