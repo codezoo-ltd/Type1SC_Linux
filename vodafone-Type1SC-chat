@@ -24,7 +24,7 @@
 # 	1. 	If you want to use another APN, You can change it in the following way.
 # 		Replace:
 # 			[apn]
-# 		with your APN.
+# 		with your APN. The default APN is set to Vodafone Global IoT SIM APN "simplio.apn"
 #	OK AT%APNN="[apn]"
 
 TIMEOUT 5
